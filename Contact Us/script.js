@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', function(){
             alert('Submitted');
 
         } else {
-            alert('Emails do not match. Please try again.');
+            alert('Emails do not match - Try again.');
         }
     });
 });
